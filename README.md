@@ -1,1 +1,1 @@
-Pet My Pet
+Pet My Pet React app
